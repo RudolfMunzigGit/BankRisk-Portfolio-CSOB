@@ -1,0 +1,3 @@
+﻿ID Uveru;ID Klienta;Jmeno klienta;Mesto;Segment;Produkt;Jistina CZK;Zustatek CZK;Mesicni splatka CZK;DPD - dny v prodleni;DTI pct;Kreditni skore;Rizikova kategorie;Datum posledni splatky;Dni od posledni splatky;Kolateral;Datum sestaveni
+124;24;Igor Švarc;Praha;High Risk;Hypotéka Klasik;7200000,0;6200000,0;28500,0;157;356,3;310;High Priority;2024-10-25;518;Dům Praha (exekuce);27.03.2026
+125;25;Dagmar Blahutová;Ostrava;High Risk;Hypotéka Flexi;6900000,0;5800000,0;25000,0;134;384,6;290;High Priority;2024-11-15;497;Byt Ostrava (soudní spor);27.03.2026
