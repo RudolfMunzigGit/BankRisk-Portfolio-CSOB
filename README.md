@@ -7,8 +7,7 @@ Portfolio projekt vytvořený jako součást přípravy na pozici **Junior analy
 ## O projektu
 
 Cílem projektu je ukázat praktické dovednosti v oblasti datové analytiky aplikované na retailové úvěrové portfolio. Projekt simuluje reálný monitoring rizikovosti 25 úvěrů s využitím nástrojů které se běžně používají v bankovním prostředí.
-
-Nejsem seniorní analytik – jsem nadšenec který se aktivně učí a chce v tomto oboru pracovat. Tento projekt je důkazem toho, že umím samostatně navrhnout, implementovat a zdokumentovat analytické řešení od databáze až po vizualizaci.
+Neustále rozvíjím své znalosti v oblasti datové analytiky a úvěrových rizik. Při tvorbě tohoto projektu jsem spolupracoval s AI nástroji, které mi pomohly překonat technické překážky a posunout výsledek dál než bych dokázal sám. Věřím, že schopnost efektivně využívat dostupné nástroje včetně AI je dnes stejně důležitá dovednost jako samotná technická znalost.
 
 ---
 
